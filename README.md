@@ -23,7 +23,7 @@ To get a passing grade you'll need to submit a project that meets the following 
 
 |  | ![Needs Work](https://dl.dropboxusercontent.com/s/cb6uuus1f2qhk3l/Treehouse-iOS-Techdegree_Needs-Work.png) Needs Work | ![](https://dl.dropboxusercontent.com/s/e7qhh6cwxuqu2ak/Treehouse-iOS-Techdegree_Meets-Expectations.png) Meets Expectations | ![](https://dl.dropboxusercontent.com/s/bjzkqdnvdv5dzl7/Treehouse-iOS-Techdegree_Exceeds-Expectations.png) Exceeds Expectations |
 | :--- | :--- | :--- | :--- |
-| User Interface | *User interface does not resemble provided mock-ups. *Not all major UI elements are in place. - App icon is not implemented   | • User interface resembles provided mock-ups • All major UI elements are in place • App icon is implemented | N/A |
+| User Interface | *User interface does not resemble provided mock-ups. *\nNot all major UI elements are in place. - App icon is not implemented   | • User interface resembles provided mock-ups • All major UI elements are in place • App icon is implemented | N/A |
 | Storyboard Enhancement | • Storyboard has not been updated to display elements correctly on all iPhone sizes (3,4,5,6,6+). | • Storyboard has been updated to display elements correctly on all iPhone sizes (3,4,5,6,6+). | N/A |
 |Create custom structs or classes | • Individual questions are still modeled using Dictionaries. | • Individual questions have been modeled using a class or struct. | N/A |
 | Refactor according to MVC | • Question data is still defined in ViewController.Swift | • Question data has been abstracted into its own class or struct and placed in a new Swift file. | N/A |
